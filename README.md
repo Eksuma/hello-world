@@ -1,2 +1,2 @@
 # hello-world
-Muh first repository.
+Hello, going through the github tutorial.
